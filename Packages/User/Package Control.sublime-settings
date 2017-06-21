@@ -1,0 +1,23 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"DocBlockr",
+		"FindKeyConflicts",
+		"GitSavvy",
+		"Javatar",
+		"Markdown Preview",
+		"Material Theme",
+		"Maven",
+		"Package Control",
+		"SFTP",
+		"SublimeLinter",
+		"Sublimerge Pro",
+		"Terminality",
+		"Web Inspector"
+	]
+}

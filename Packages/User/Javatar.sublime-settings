@@ -1,0 +1,40 @@
+{
+	"jdk_version":
+	{
+		"JDK1.8.0u73":
+		{
+			"path": "C:\\Program Files\\Java\\jdk1.8.0_73\\bin",
+			"update": "73",
+			"version": "1.8.0"
+		},
+		"JDK1.8.0u91":
+		{
+			"path": "C:\\Program Files (x86)\\Java\\jdk1.8.0_91\\bin",
+			"update": "91",
+			"version": "1.8.0"
+		},
+		"use": "JDK1.8.0u91"
+	},
+	"message_id": 20,
+	"project_data":
+	{
+		"3":
+		{
+			"folders":
+			[
+				{
+					"path": "F:\\Projects\\EventViewer"
+				}
+			]
+		},
+		"4":
+		{
+			"folders":
+			[
+				{
+					"path": "F:\\Projects\\AmsCgp"
+				}
+			]
+		}
+	}
+}
