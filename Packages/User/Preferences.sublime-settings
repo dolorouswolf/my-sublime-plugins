@@ -1,8 +1,20 @@
 {
-	"always_show_minimap_viewport": true,
-	"bold_folder_labels": true,
-	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
+	"trim_trailing_white_space_on_save": true,
+	"ensure_newline_at_eof_on_save": true,
+	"disable_tab_abbreviations": true,
+	"translate_tabs_to_spaces": true,
+	"tab_size": 2,
+	"draw_minimap_border": true,
+	"save_on_focus_lost": true,
+	"highlight_line": true,
+	"word_wrap": "true",
 	"fade_fold_buttons": false,
+	"bold_folder_labels": true,
+	"highlight_modified_tabs": true,
+	"default_line_ending": "unix",
+	"auto_find_in_selection": true,
+	"always_show_minimap_viewport": true,
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
 	"font_options":
 	[
 		"gray_antialias"
