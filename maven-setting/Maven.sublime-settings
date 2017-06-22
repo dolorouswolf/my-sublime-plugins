@@ -1,0 +1,13 @@
+{
+    "maven_env_vars": {
+      "m2_home": "D:/apache-maven-3.3.9"
+    },
+    "maven_menu_commands":
+    [
+          { "caption": "Maven: Run test", "command": "maven", "args": {"paths": [], "goals": ["test"]} },
+          { "caption": "Maven: Run install", "command": "maven", "args": {"paths": [], "goals": ["install"]} },
+          { "caption": "Maven: Run clean test", "command": "maven", "args": {"paths": [], "goals": ["clean", "test"]} },
+          { "caption": "Maven: Run clean install", "command": "maven", "args": {"paths": [], "goals": ["clean", "install"]} }
+    ],
+    "long_project_names": true
+}
